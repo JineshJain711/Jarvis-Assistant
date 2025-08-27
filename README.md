@@ -1,4 +1,4 @@
-# 🎙️ Jarvis – Your Python Voice Assistant for Music, News & More  
+# 🎙️ Jarvis – Python Voice Assistant for Music, News & More  
 
 Jarvis is a simple yet powerful **voice-controlled assistant** built using Python.  
 It listens for the wake word **"Jarvis"** and executes commands like:  
